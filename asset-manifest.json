@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.a958bd20.css",
-    "main.js": "/static/js/main.b501f539.js",
-    "static/css/764.278f7dd2.chunk.css": "/static/css/764.278f7dd2.chunk.css",
-    "static/js/764.cc2eb3bf.chunk.js": "/static/js/764.cc2eb3bf.chunk.js",
-    "static/css/68.58faf5a5.chunk.css": "/static/css/68.58faf5a5.chunk.css",
-    "static/js/68.b9b31a56.chunk.js": "/static/js/68.b9b31a56.chunk.js",
-    "static/css/333.c42ccde9.chunk.css": "/static/css/333.c42ccde9.chunk.css",
-    "static/js/333.3aa5c09f.chunk.js": "/static/js/333.3aa5c09f.chunk.js",
-    "static/css/18.c11b6622.chunk.css": "/static/css/18.c11b6622.chunk.css",
-    "static/js/18.58c1134d.chunk.js": "/static/js/18.58c1134d.chunk.js",
-    "static/js/240.c47bb44f.chunk.js": "/static/js/240.c47bb44f.chunk.js",
-    "static/js/277.5396f183.chunk.js": "/static/js/277.5396f183.chunk.js",
-    "static/js/139.d96b6191.chunk.js": "/static/js/139.d96b6191.chunk.js",
-    "static/css/605.9241e402.chunk.css": "/static/css/605.9241e402.chunk.css",
-    "static/js/605.b0a1aa7e.chunk.js": "/static/js/605.b0a1aa7e.chunk.js",
+    "main.js": "/static/js/main.1dc81e95.js",
+    "static/css/764.caab74f6.chunk.css": "/static/css/764.caab74f6.chunk.css",
+    "static/js/764.5a60ddb3.chunk.js": "/static/js/764.5a60ddb3.chunk.js",
+    "static/css/300.bc0e7e44.chunk.css": "/static/css/300.bc0e7e44.chunk.css",
+    "static/js/300.f5bc013e.chunk.js": "/static/js/300.f5bc013e.chunk.js",
+    "static/css/333.3a917f37.chunk.css": "/static/css/333.3a917f37.chunk.css",
+    "static/js/333.fc40641b.chunk.js": "/static/js/333.fc40641b.chunk.js",
+    "static/css/998.d01639e7.chunk.css": "/static/css/998.d01639e7.chunk.css",
+    "static/js/998.33457902.chunk.js": "/static/js/998.33457902.chunk.js",
+    "static/js/240.9a6dd7c3.chunk.js": "/static/js/240.9a6dd7c3.chunk.js",
+    "static/js/277.0a2e4da3.chunk.js": "/static/js/277.0a2e4da3.chunk.js",
+    "static/js/139.b04c01e6.chunk.js": "/static/js/139.b04c01e6.chunk.js",
+    "static/css/225.621f004c.chunk.css": "/static/css/225.621f004c.chunk.css",
+    "static/js/225.270a0d05.chunk.js": "/static/js/225.270a0d05.chunk.js",
     "static/media/2.Вадим_Глогер.Если_тебя_выписали_из_сумасшедшего_дома,значит_ты_стал_как_все.mp3": "/static/media/2.Вадим_Глогер.Если_тебя_выписали_из_сумасшедшего_дома,значит_ты_стал_как_все.994cecc26e0fbc7e585c.mp3",
     "static/media/portrait.png": "/static/media/portrait.d66b937d47a57d3e0243.png",
     "static/media/13.Антон_Носик.Самое_бесполезное_занятие-это_париться.mp3": "/static/media/13.Антон_Носик.Самое_бесполезное_занятие-это_париться.fe58bd6bc859f34f8604.mp3",
@@ -61,6 +61,6 @@
   },
   "entrypoints": [
     "static/css/main.a958bd20.css",
-    "static/js/main.b501f539.js"
+    "static/js/main.1dc81e95.js"
   ]
 }
